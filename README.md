@@ -8,7 +8,7 @@ LZH：https://github.com/Buyou27
 FY：https://github.com/afdfbgrdssa
 
 RYB:https://github.com/001026-ai
-WZM：https://github.com/dashboard
+WZM：https://github.com/wzm-Epoch
 
 ---------------------------------------------
 各位部员：
